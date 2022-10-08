@@ -1,0 +1,4 @@
+web\SingletonConnection.class
+web\ImetierCatalogue.class
+web\MetierImpl.class
+web\Produit.class
